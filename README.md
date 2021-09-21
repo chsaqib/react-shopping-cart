@@ -1,3 +1,13 @@
+# React E-Commerce Project
+ 
+- REACT JS
+- Styled Components
+
+Click this => [LIVE Preview](https://chsaqib.github.io/react-shopping-cart/)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
