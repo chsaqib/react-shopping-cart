@@ -63,7 +63,7 @@ const Navbar = () => {
                        <Search style={{color:"gray", fontSize:16}}/>
                    </SearchContainer>
                </Left>
-               <Center><Logo>Alho Lisboa</Logo></Center>
+               <Center><Logo>Nordic Clothing</Logo></Center>
                <Right>
                    <MenuItem>REGISTER</MenuItem>
                    <MenuItem>SIGN IN</MenuItem>
